@@ -1,0 +1,22 @@
+header, footer, section{
+padding: 100px 0;
+}
+.cs{
+    font-family: 'Segoe UI, Tahoma, Geneva, Verdana, sans-serif';
+    color: gray;
+    padding-left: 750px;
+     padding-bottom: 50px;
+}
+
+.noPadding {
+    padding-left: 0;
+    padding-right: 0;
+    }
+
+    .root{
+       --color: #311F55;
+    }
+    header{
+    padding: 100px 0px;
+    background: var(--color);
+    }
